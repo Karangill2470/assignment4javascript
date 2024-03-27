@@ -4,7 +4,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     // Display student info
-    document.getElementById('student-info').textContent = "Student ID: YOUR_ID | Name: YOUR_NAME";
+    document.getElementById('student-info').textContent = "Student ID: 200550743@student.georgianc.on.ca | Name: karan gill";
 
     // Form submission handler
     document.getElementById('pizza-form').addEventListener('submit', function(event) {
